@@ -25,3 +25,4 @@
 Navigate to the Initiator tab now and answer the last question
 
 9. Which function inside the initiating file made the request?
+    Fetch data
