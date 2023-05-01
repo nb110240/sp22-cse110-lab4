@@ -47,11 +47,11 @@ Question 13 answers:
     Part A:
         32: '3' is considered an integer and is joint to 2 to make 32
    Part B:
-        error
+        error.
     Part C:
         3: null is considered as 0 and hence 3 + 0 is 0 
     Part D:
-        error. because 
+        error.  
     Part E: 
         4: true is considered as 1 and 1 +3 is 4.
     Part F:
