@@ -37,7 +37,7 @@ Question 12 answers:
     Part B:
         alert(student['Grad Year']);
     Part C:
-        
+        alert(student.greeting());
     Part D:
         alert(student['Favorite Teacher'].name);
     Part E:
